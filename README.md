@@ -5,7 +5,7 @@ This is a max for live device to export a midi file from Ableton Live Session Vi
 
 requirements
 ---
-- Ableton Live 11
+- Ableton Live 11.1
 - Max 8.2.0
 
 
